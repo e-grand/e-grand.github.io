@@ -14,13 +14,6 @@ body {
   margin: 0;
   overflow-x: hidden; }
 
-@media screen and (max-height: 540px) {.hero {background-image: url("img/hero-980x540.jpg");}}
-@media screen and (min-height: 541px) {.hero {background-image: url("img/hero-1371x756.jpg");}}
-@media screen and (min-height: 756px) {.hero {background-image: url("img/hero-1920x1058.jpg");}}
-@media screen and (min-height: 1058px) {.hero {background-image: url("img/hero-2560x1411.jpg");}}
-@media screen and (min-height: 1411px) {.hero {background-image: url("img/hero-3744x2064.jpg");}}
-
-
 .pagewrapper {
   width: 100%;
   min-height: 100vh;
@@ -133,3 +126,9 @@ footer div {
 .sendcenter {text-align: center;}
 .white {color: white;}
 .fullwidth {width: 100%;}
+
+@media screen and (max-height: 540px) {.hero {background-image: url("img/hero-980x540.jpg");}}
+@media screen and (min-height: 541px) {.hero {background-image: url("img/hero-1371x756.jpg");}}
+@media screen and (min-height: 756px) {.hero {background-image: url("img/hero-1920x1058.jpg");}}
+@media screen and (min-height: 1058px) {.hero {background-image: url("img/hero-2560x1411.jpg");}}
+@media screen and (min-height: 1411px) {.hero {background-image: url("img/hero-3744x2064.jpg");}}
