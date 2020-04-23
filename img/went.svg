@@ -1,1 +1,64 @@
-<svg width="240" height="240" version="1.1" viewBox="0 0 63.5 63.5" xmlns="http://www.w3.org/2000/svg"><g transform="translate(-7.937 -233.5)"><path transform="matrix(.2646 0 0 .2646 0 233.5)" d="m30 10v220c0 5 5 10 10 10h220c5 0 10-5 10-10v-220c0-5-5-10-10-10h-220c-5 0-10 5-10 10zm120-0.07032c60.28-4.087e-4 109.1 48.86 109.1 109.1-6.7e-4 60.28-48.86 109.1-109.1 109.1-60.28 4.1e-4 -109.1-48.86-109.1-109.1-4.1e-4 -60.28 48.86-109.1 109.1-109.1z" opacity=".5" style="paint-order:markers stroke fill"/><path transform="matrix(.2646 0 0 .2646 0 233.5)" d="m69.39 58.06c-4.134 0.0871-7.853 2.46-11.09 8.066-17.3 29.96 52.27 25.73 78.3 50.13a13.7 13.7 0 0 0-0.2969 2.812 13.7 13.7 0 0 0 9.432 13.01c8.117 34.75-30.34 92.88 4.264 92.88 34.6 0-3.86-58.15 4.266-92.89a13.7 13.7 0 0 0 9.43-13 13.7 13.7 0 0 0-0.3066-2.805c26.03-24.41 95.62-20.17 78.31-50.14-17.3-29.97-48.43 32.41-82.58 42.75a13.7 13.7 0 0 0-9.125-3.502 13.7 13.7 0 0 0-9.123 3.502c-27.76-8.402-53.53-51.2-71.49-50.82z" opacity=".5" style="paint-order:markers stroke fill"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="240"
+   height="240"
+   version="1.1"
+   viewBox="0 0 63.5 63.5"
+   id="svg8"
+   sodipodi:docname="went.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.9666667"
+     inkscape:cx="148.14753"
+     inkscape:cy="102.7681"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
+  <g
+     transform="translate(-7.937 -233.5)"
+     id="g6">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 7.938,236.146 v 58.212 c 0,1.323 1.323,2.646 2.646,2.646 h 58.212 c 1.323,0 2.646,-1.323 2.646,-2.646 v -58.212 c 0,-1.323 -1.323,-2.646 -2.646,-2.646 H 10.584 c -1.323,0 -2.646,1.323 -2.646,2.646 z m 31.752,-0.0186 c 15.950088,-1e-4 28.86786,12.92836 28.86786,28.86786 C 68.557683,280.94534 55.629504,293.86311 39.69,293.86311 23.739912,293.86322 10.82214,280.93476 10.82214,264.99525 10.822032,249.04517 23.750496,236.12739 39.69,236.12739 Z"
+       style="opacity:1;fill:#333333;stroke:none;stroke-width:0.26460001;paint-order:markers stroke fill"
+       id="path2" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 18.360594,248.86268 c -1.093856,0.023 -2.077904,0.65091 -2.934414,2.13426 -4.57758,7.92742 13.830642,6.80816 20.71818,13.2644 a 3.62502,3.62502 0 0 0 -0.07856,0.74405 3.62502,3.62502 0 0 0 2.495707,3.44245 c 2.147759,9.19485 -8.027964,24.57605 1.128255,24.57605 9.15516,0 -1.021356,-15.38649 1.128783,-24.5787 a 3.62502,3.62502 0 0 0 2.495178,-3.4398 3.62502,3.62502 0 0 0 -0.08113,-0.7422 c 6.887538,-6.45889 25.301052,-5.33698 20.720826,-13.26704 -4.57758,-7.93007 -12.814578,8.57568 -21.850668,11.31165 a 3.62502,3.62502 0 0 0 -2.414475,-0.92663 3.62502,3.62502 0 0 0 -2.413946,0.92663 C 29.929038,260.08463 23.110296,248.76028 18.35808,248.86082 Z"
+       style="opacity:1;fill:#333333;stroke:none;stroke-width:0.26460001;paint-order:markers stroke fill"
+       id="path4" />
+  </g>
+</svg>

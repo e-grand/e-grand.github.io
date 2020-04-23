@@ -1,1 +1,65 @@
-<svg width="135" height="90" version="1.1" viewBox="0 0 35.72 23.81" xmlns="http://www.w3.org/2000/svg"><g transform="translate(-5.292 -262.6)"><g stroke="#000"><path d="m38.36 265.2v15.88h-30.43v-15.88z" opacity=".5" stroke-linejoin="round" stroke-width="5.292"/><path d="m10.58 283.8v2.646" fill="none" opacity=".5" stroke-linejoin="round" stroke-width="2.117" style="paint-order:markers stroke fill"/><path d="m35.72 283.8v2.646" fill="none" opacity=".5" stroke-width="2.117"/></g><path d="m30.43 265.2v15.88" fill="#fff" opacity=".5" stroke="#fff" stroke-width=".2646"/><circle cx="15.88" cy="273.2" r="6.615" fill="#fff" opacity=".5" stroke-width="0" style="paint-order:normal"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="135"
+   height="90"
+   version="1.1"
+   viewBox="0 0 35.72 23.81"
+   id="svg16"
+   sodipodi:docname="pompa2.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="2.3703704"
+     inkscape:cx="67.078125"
+     inkscape:cy="45"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14" />
+  <g
+     transform="translate(-5.292 -262.6)"
+     id="g14">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.99788475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 10.001953 0 C 4.4810329 -0.00045352744 0.0036183931 4.4719271 0 9.9921875 L 0 70 C -0.00044974804 75.523095 4.4781556 80.000454 10.001953 80 L 15 80 L 15 90 L 25 90 L 25 80 L 110 80 L 110 90 L 120 90 L 120 80 L 124.99805 80 C 130.52184 80.000454 135.00045 75.523095 135 70 L 135 9.9921875 C 134.99638 4.4719271 130.51897 -0.00045352744 124.99805 0 L 10.001953 0 z M 100.02539 15.160156 L 102.02539 15.160156 L 102.02539 65.150391 L 100.02539 65.150391 L 100.02539 15.160156 z M 40.046875 15.228516 A 24.998891 24.995819 0 0 1 65.046875 40.224609 A 24.998891 24.995819 0 0 1 40.046875 65.220703 A 24.998891 24.995819 0 0 1 15.046875 40.224609 A 24.998891 24.995819 0 0 1 40.046875 15.228516 z "
+       transform="matrix(0.26459259,0,0,0.26459259,5.292,262.59833)"
+       id="path2" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect4544"
+       height="13.953125"
+       x="32.193626"
+       y="266.76566" />
+  </g>
+</svg>
