@@ -3,7 +3,8 @@ body, html {
 }
 html {
   font-size: 62.5%;
-  scroll-behavior: smooth; }
+  scroll-behavior: smooth;
+}
 body {
   font: normal normal normal 2.0em/1.8 Montserrat, sans-serif; /* currently ems cause chrome bug misinterpreting rems on body element */
   background-color: white;
@@ -68,7 +69,7 @@ p,a,li {
   color: inherit;
   padding-left: 1rem;
 }
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 500px) {
   h1 {font-size: 4.2rem;}
   h2 {font-size: 3.4rem;}
   h3 {font-size: 2.8rem;}
@@ -138,11 +139,14 @@ footer {
   margin-top: 5rem;
   display: flex;
   flex-wrap: wrap;
+  padding: 3rem;
+  box-sizing: border-box;
+
 }
 footer div {
-  padding: 3rem;
   color: white;
   flex-grow: 1;
+  box-sizing: border-box;
 }
 .sendright {margin-left: auto;}
 .sendcenter {text-align: center;}
