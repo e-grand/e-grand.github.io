@@ -1,5 +1,6 @@
 body, html {
     height: 100%;
+    width: 100%;
 }
 html {
   font-size: 62.5%;
@@ -153,11 +154,11 @@ footer div {
 .white {color: white;}
 .fullwidth {width: 100%;}
 
-@media screen and (max-height: 540px) {.hero {background-image: url("img/hero-980x540.jpg");}}
-@media screen and (min-height: 541px) {.hero {background-image: url("img/hero-1371x756.jpg");}}
-@media screen and (min-height: 756px) {.hero {background-image: url("img/hero-1920x1058.jpg");}}
-@media screen and (min-height: 1058px) {.hero {background-image: url("img/hero-2560x1411.jpg");}}
-@media screen and (min-height: 1411px) {.hero {background-image: url("img/hero-3744x2064.jpg");}}
+@media screen and (max-height: 585px) {.hero {background-image: url("img/hero/hero-980x585.webp");}}
+@media screen and (min-height: 586px) {.hero {background-image: url("img/hero/hero-1371x818.webp");}}
+@media screen and (min-height: 818px) {.hero {background-image: url("img/hero/hero-1920x1145.webp");}}
+@media screen and (min-height: 1145px) {.hero {background-image: url("img/hero/hero-2560x1527.webp");}}
+@media screen and (min-height: 1527px) {.hero {background-image: url("img/hero-3383x2018.webp");}}
 .title {
   display: flex;
   flex-direction: column;
